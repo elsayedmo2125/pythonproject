@@ -16,4 +16,4 @@ elif degree>=60:
     print("You have achieved a passing grade.")
 else:
     print("F")
-    
+    print("Faild")
